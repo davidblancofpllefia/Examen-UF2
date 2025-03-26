@@ -36,7 +36,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('einstein.avif.jpg');
+  background: url('einstein.avif.jpg') no-repeat center/cover;
 }
 
 svg {
